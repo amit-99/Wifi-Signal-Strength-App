@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wifi Signal Strength</string>
+    <string name="click_button_to_get_info">Click Button to get Info</string>
+</resources>
