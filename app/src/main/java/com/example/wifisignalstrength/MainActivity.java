@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
             public void run() {
                 getWifiInformation();
                 savetofile();
-                handler.postDelayed(this, 60000);
+                handler.postDelayed(this, 2000);
             }
         };
 
